@@ -1,5 +1,6 @@
 # DALL-E-Bulk-Image-Generator---OpenAI
 
+
 "# DALL-E Image Generator
 
 The DALL-E Image Generator is an application that uses OpenAI's DALL-E model to generate high-quality images based on input data from a CSV file. The application includes a user interface that allows users to enter their OpenAI API key, select the desired image size, and choose a CSV file with input data for the images. Once the parameters have been set, users can generate the images with a single click of a button. The application will display a loading indicator while the images are being generated, and will save the images in a `generated_img` folder within the current directory.
